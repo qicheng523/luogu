@@ -1,0 +1,6 @@
+*.out
+*.o
+a.out
+main
+in.txt
+out.txt
