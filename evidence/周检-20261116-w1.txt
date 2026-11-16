@@ -1,0 +1,25 @@
+== G0 六证（按第三节口径：linux/gpp/git/洛谷/CF/牛客）==
+  [PASS] G0-linux  20261110-g0-linux.png
+  [PASS] G0-gpp  20261110-g0-gpp.png
+  [PASS] G0-git  20261110-g0-git.png
+  [PASS] G0-luogu  20261110-g0-luogu.png
+  [PASS] G0-cf  20261110-g0-cf.png
+  [PASS] G0-nowcoder  20261110-g0-nowcoder.png
+== w1 六题 ==
+  [PASS] P1046  commit+源码+截图
+  [PASS] P5711  commit+源码+截图
+  [PASS] P1425  commit+源码+截图
+  [PASS] P5716  commit+源码+截图
+  [PASS] P5707  commit+源码+截图
+  [PASS] P1055  commit+源码+截图
+== 三问台账（A1/A2/A3 各一行有字 = 可判独立；不计入上面 12 项）==
+  [OK]   P1046  三问齐
+  [OK]   P5711  三问齐
+  [OK]   P1425  三问齐
+  [OK]   P5716  三问齐
+  [OK]   P5707  三问齐
+  [OK]   P1055  三问齐
+  独立台账 6/6（G1 要求 >=70%）
+  另有 3 道限时/加练题（不计入上面 12 项）
+----------------------------------------
+通过 12 / 12
