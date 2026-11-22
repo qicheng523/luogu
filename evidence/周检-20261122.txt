@@ -1,0 +1,28 @@
+== G0 六证（按第三节口径：linux/gpp/git/洛谷/CF/牛客）==
+  [PASS] G0-linux  20261110-g0-linux.png
+  [PASS] G0-gpp  20261110-g0-gpp.png
+  [PASS] G0-git  20261110-g0-git.png
+  [PASS] G0-luogu  20261110-g0-luogu.png
+  [PASS] G0-cf  20261110-g0-cf.png
+  [PASS] G0-nowcoder  20261110-g0-nowcoder.png
+== w2 六题 ==
+  [PASS] P5718  commit+源码+截图
+  [PASS] P5720  commit+源码+截图
+  [PASS] P5721  commit+源码+截图
+  [PASS] P1427  commit+源码+截图
+  [PASS] P5727  commit+源码+截图
+  [PASS] P1047  commit+源码+截图
+== 三问台账（A1/A2/A3 各一行有字 = 可判独立；不计入上面 12 项）==
+  [OK]   P5718  三问齐
+  [OK]   P5720  三问齐
+  [OK]   P5721  三问齐
+  [OK]   P1427  三问齐
+  [OK]   P5727  三问齐
+  [OK]   P1047  三问齐
+  独立台账 6/6（G1 要求 >=70%）
+== 二刷台账（redo/ 下每个目录 = 一条重写，不计入上面 12 项）==
+  [REDO] p5707-retry      有源码
+  错题本待二刷 2 条 / 已开二刷目录 1 个
+  另有 1 道限时/加练题（不计入上面 12 项）
+----------------------------------------
+通过 12 / 12
