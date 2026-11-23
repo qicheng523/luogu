@@ -9,9 +9,7 @@ int main(void)
     }
     int count = 0;
     int days = 0;
-    while (days < day)
-    {
-        for (int i = 1; ;i++)
+    for (int i = 1; days < day; i++)
         {
             for (int j = 0; j < i; j++)
             {
@@ -22,12 +20,7 @@ int main(void)
                     break;
                 }
             }
-            if (days == day)
-                {
-                    break;
-                }
         }
-    }
     printf("%d\n", count);
     return 0;
 }
