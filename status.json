@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T21:05:01+08:00",
+  "updated_at": "2026-11-28T21:51:54+08:00",
   "week": "w3",
   "week_range": {
     "start": "2026-11-23",
@@ -12,13 +12,13 @@
     "id": "G1",
     "name": "语法",
     "deadline": "2026-12-06",
-    "days_left": 9,
+    "days_left": 8,
     "status": "in_progress"
   },
   "algo": {
     "week": "w3",
     "target": 6,
-    "done": 3,
+    "done": 4,
     "ids": [
       "P5728",
       "P1614",
@@ -30,9 +30,10 @@
     "done_ids": [
       "P5728",
       "P1614",
-      "P1161"
+      "P1161",
+      "P5732"
     ],
-    "check_pass": 9,
+    "check_pass": 10,
     "check_total": 12
   },
   "tools": {
@@ -52,15 +53,15 @@
     "ok": false
   },
   "g0": 6,
-  "ac_total": 22,
-  "three_questions": 22,
+  "ac_total": 23,
+  "three_questions": 23,
   "redo": {
     "done": 0,
     "todo": 3
   },
-  "commits": 49,
+  "commits": 53,
   "ahead": "0",
-  "evidence": 31,
+  "evidence": 32,
   "timed": 0,
   "source": "verify-status.sh --json"
 }
