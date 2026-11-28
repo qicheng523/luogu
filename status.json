@@ -1,0 +1,66 @@
+{
+  "updated_at": "2026-11-27T21:05:01+08:00",
+  "week": "w3",
+  "week_range": {
+    "start": "2026-11-23",
+    "end": "2026-11-29"
+  },
+  "mode": "normal",
+  "weekly_hour_limit": 22,
+  "weekly_hour_note": "R9 净专注上限；reduced 为置换、不增量",
+  "milestone": {
+    "id": "G1",
+    "name": "语法",
+    "deadline": "2026-12-06",
+    "days_left": 9,
+    "status": "in_progress"
+  },
+  "algo": {
+    "week": "w3",
+    "target": 6,
+    "done": 3,
+    "ids": [
+      "P5728",
+      "P1614",
+      "P1161",
+      "P5732",
+      "P5733",
+      "P5015"
+    ],
+    "done_ids": [
+      "P5728",
+      "P1614",
+      "P1161"
+    ],
+    "check_pass": 9,
+    "check_total": 12
+  },
+  "tools": {
+    "count": 0,
+    "files": [],
+    "expected": "books.c",
+    "ok": false
+  },
+  "english": {
+    "days": 2,
+    "target": 5,
+    "dates": [
+      "2026-11-26",
+      "2026-11-27"
+    ],
+    "speak": 0,
+    "ok": false
+  },
+  "g0": 6,
+  "ac_total": 22,
+  "three_questions": 22,
+  "redo": {
+    "done": 0,
+    "todo": 3
+  },
+  "commits": 49,
+  "ahead": "0",
+  "evidence": 31,
+  "timed": 0,
+  "source": "verify-status.sh --json"
+}
